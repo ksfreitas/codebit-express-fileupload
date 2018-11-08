@@ -1,8 +1,8 @@
 {
-  "name": "express-fileupload",
+  "name": "codebit-express-fileupload",
   "version": "1.0.0",
-  "author": "Richard Girges <richardgirges@gmail.com>",
-  "description": "Simple express file upload middleware that wraps around Busboy",
+  "author": "Cássio de Freitas e Silva <ksfreitas@gmail.com>",
+  "description": "Simple express file upload middleware that wraps around Busboy (forked from express-fileupload)",
   "main": "./lib/index",
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec",
@@ -28,12 +28,12 @@
     "middleware"
   ],
   "license": "MIT",
-  "repository": "richardgirges/express-fileupload",
+  "repository": "ksfreitas/codebit-express-fileupload",
   "devDependencies": {
     "body-parser": "^1.18.3",
     "coveralls": "^3.0.2",
-    "eslint": "^5.6.0",
-    "express": "^4.16.3",
+    "eslint": "^5.8.0",
+    "express": "^4.16.4",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
     "rimraf": "^2.6.2",
