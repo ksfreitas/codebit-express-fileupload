@@ -1,6 +1,6 @@
 {
   "name": "codebit-express-fileupload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Cássio de Freitas e Silva <ksfreitas@gmail.com>",
   "description": "Simple express file upload middleware that wraps around Busboy (forked from express-fileupload)",
   "main": "./lib/index",
